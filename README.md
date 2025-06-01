@@ -42,3 +42,12 @@ print('done')
 
 hello from mohammad amini
 git is awesome 
+
+
+
+
+
+#شروین محمدپور
+def tavan(n):
+    n = n**2
+    return n
