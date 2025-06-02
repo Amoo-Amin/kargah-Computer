@@ -94,7 +94,13 @@ number = int(input("number="))
 print(f"{number}! = {factorial(number)}")
 
 
+i am Alireza Mousavi
+def multiplication(x, z):
+    return x * z
 
+x = 2
+z = 4
+print(multiplication(x, z))
 
 
 
