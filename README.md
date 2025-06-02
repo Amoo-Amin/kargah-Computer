@@ -93,6 +93,16 @@ def factorial(a):
 number = int(input("number="))
 print(f"{number}! = {factorial(number)}")
 
+
+
+
+
+
+
+
+
+I am seyed sina hosseini and I study at Yasuj University.
+
 def random_math_function (x) :
     return x ** 2
 
