@@ -76,7 +76,22 @@ for i in range(n2,0,-1):
 
 
 عارف صداقت
-computer engineering yasuj university        
+computer engineering yasuj university 
+
+
+
+
+
+
+
+def factorial(a):
+    re = 1
+    for i in range(2, a + 1):
+        re *= i
+    return re
+
+number = int(input("number="))
+print(f"{number}! = {factorial(number)}")
 
 def random_math_function (x) :
     return x ** 2
