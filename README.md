@@ -70,6 +70,14 @@ for i in range(n2,0,-1):
         print(i)
         break
 
+
+
+
+
+
+عارف صداقت
+computer engineering yasuj university        
+
 def random_math_function (x) :
     return x ** 2
 
