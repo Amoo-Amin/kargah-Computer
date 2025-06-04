@@ -116,9 +116,31 @@ x = int(input("input a number: "))
 random_math_function(x)
 
 
+=======
 # Nima Amiri
 def random_function(x):
     return x ** 2 - 1
 
 x = int(input("input number: "))
 random_function(x)
+>>>>>>main
+
+
+
+
+
+
+
+
+
+#javadbranch
+
+Hi from Javad esfandiari
+
+
+       __                      __             ____                ___            _ 
+      / /___ __   ______ _____/ /  ___  _____/ __/___ _____  ____/ (_)___ ______(_)
+ __  / / __ `/ | / / __ `/ __  /  / _ \/ ___/ /_/ __ `/ __ \/ __  / / __ `/ ___/ / 
+/ /_/ / /_/ /| |/ / /_/ / /_/ /  /  __(__  ) __/ /_/ / / / / /_/ / / /_/ / /  / /  
+\____/\__,_/ |___/\__,_/\__,_/   \___/____/_/  \__,_/_/ /_/\__,_/_/\__,_/_/  /_/   
+ 
