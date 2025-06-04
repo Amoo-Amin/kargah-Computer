@@ -108,3 +108,11 @@ def random_math_function (x) :
 
 x = int(input("input a number: "))
 random_math_function(x)
+
+
+# Nima Amiri
+def random_function(x):
+    return x ** 2 - 1
+
+x = int(input("input number: "))
+random_function(x)
