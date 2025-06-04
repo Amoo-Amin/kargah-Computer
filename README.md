@@ -116,6 +116,10 @@ x = int(input("input a number: "))
 random_math_function(x)
 
 
+
+
+
+
 =======
 # Nima Amiri
 def random_function(x):
