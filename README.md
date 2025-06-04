@@ -94,7 +94,13 @@ number = int(input("number="))
 print(f"{number}! = {factorial(number)}")
 
 
+i am Alireza Mousavi
+def multiplication(x, z):
+    return x * z
 
+x = 2
+z = 4
+print(multiplication(x, z))
 
 
 
@@ -110,6 +116,24 @@ x = int(input("input a number: "))
 random_math_function(x)
 
 
+=======
+# Nima Amiri
+def random_function(x):
+    return x ** 2 - 1
+
+x = int(input("input number: "))
+random_function(x)
+>>>>>>main
+
+
+
+
+
+
+
+
+
+#javadbranch
 
 Hi from Javad esfandiari
 
