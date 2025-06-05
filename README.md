@@ -222,4 +222,8 @@ for m in range(max(a,b),(a*b)+1):
         print(float(m))
         break
 
+
+def hello():
+    print("hello I'm yalda")
+
         
