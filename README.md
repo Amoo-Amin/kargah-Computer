@@ -99,6 +99,8 @@ Hi from Javad esfandiari
 #Fateme Jafarian
 Hi I am Fateme Jafarian
 
+
+
 def fact(n):
 #هانیه عباسی
 s=1
@@ -106,7 +108,16 @@ for i in range(n):
 s=s\*i
 return(s)
 
+
+
+
 #رضاآرام
 Salam be bchehay gool too khone
+
+
+
+
+
+
 def hello():
     print("Hello from Anahita Hassanzadeh!")
