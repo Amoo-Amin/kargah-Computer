@@ -110,10 +110,3 @@ return(s)
 Salam be bchehay gool too khone
 
 
-# یوسف فلاحی نسب
-
-def power(x):
-      return x ** 2
-
-x = int(input("input a number: "))
-power(x)
