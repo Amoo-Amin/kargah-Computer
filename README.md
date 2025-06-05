@@ -110,7 +110,7 @@ return(s)
 Salam be bchehay gool too khone
 
 
- یوسف فلاحی نسب
+# Yousef Fallahi nasab
 
 def power(x):
       return x ** 2
