@@ -117,7 +117,16 @@ Salam be bchehay gool too khone
 
 
 
+# Yousef Fallahi nasab
+
+def power(x):
+      return x ** 2
+
+x = int(input("input a number: "))
+power(x)
+
 
 
 def hello():
     print("Hello from Anahita Hassanzadeh!")
+
