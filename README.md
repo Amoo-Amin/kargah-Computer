@@ -110,6 +110,7 @@ return(s)
 Salam be bchehay gool too khone
 
 
+
 # Yousef Fallahi nasab
 
 def power(x):
@@ -117,3 +118,7 @@ def power(x):
 
 x = int(input("input a number: "))
 power(x)
+=======
+def hello():
+    print("Hello from Anahita Hassanzadeh!")
+
