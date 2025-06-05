@@ -107,4 +107,4 @@ s=s\*i
 return(s)
 
 #رضاآرام
-Salam be bchehay gol to khone
+Salam be bchehay gol too khone
