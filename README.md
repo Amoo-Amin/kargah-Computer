@@ -108,3 +108,5 @@ return(s)
 
 #رضاآرام
 Salam be bchehay gool too khone
+def hello():
+    print("Hello from Anahita Hassanzadeh!")
