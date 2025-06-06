@@ -244,5 +244,5 @@ if Success() == True:
     celebrate()
 else :
     Try_Again()
-    Dont_Give_Up()
+    Dont_GiveUp()
     Be_Unreachable()
