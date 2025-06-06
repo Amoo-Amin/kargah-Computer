@@ -234,3 +234,15 @@ def hello():
     print("hello I'm yalda")
 
         
+
+
+
+
+
+# mohammad hasan bahreini
+if Success() == True:
+    celebrate()
+else :
+    Try_Again()
+    Dont_Give_Up()
+    Be_Unreachable()
