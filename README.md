@@ -239,6 +239,7 @@ def hello():
 
 
 
+
 # mohammad hasan bahreini
 if Success() == True:
     celebrate()
@@ -246,3 +247,15 @@ else :
     Try_Again()
     Dont_GiveUp()
     Be_Unreachable()
+    
+    
+    
+    
+    
+    
+#mobina monazzah
+import math
+a=int(input())
+b=math.sqrt(a)
+print(b)
+
