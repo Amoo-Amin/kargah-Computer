@@ -233,6 +233,22 @@ for m in range(max(a,b),(a*b)+1):
 def hello():
     print("hello I'm yalda")
 
+
+
+
+
+
+
+
+
+
+#امیرهمایون درخشان  4031532008        
+def Factorial(N:int):
+    if N == 0 or N == 1:
+        return 1
+    else:
+        return N * Factorial(N-1)
+
         
 
 
@@ -258,4 +274,5 @@ import math
 a=int(input())
 b=math.sqrt(a)
 print(b)
+
 
