@@ -234,3 +234,8 @@ def hello():
     print("hello I'm yalda")
 
         
+#mobina monazzah
+import math
+a=int(input())
+b=math.sqrt(a)
+print(b)
